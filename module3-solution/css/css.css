@@ -1,0 +1,48 @@
+body{
+    background-color: #96bbbb;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand h1{
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    cursor:pointer;
+}
+#header-nav{
+    background-color: #DD7596;
+    min-height: 70px;
+    border: none;
+}
+#header-nav button{
+margin: 17px;
+}
+#cn{
+   border-top:none;
+    
+}
+#cn ul{
+    background-color:#E8B4BC; 
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 7px;
+    font-size: 1.5em;
+}
+li{
+   margin:2px;
+}
+li:hover{
+    background-color: #DD7596;
+    box-shadow: 1px 2px 5px 3px #DD7596;
+}
+div.container > div.text-center > p{
+    font-size: 2em;
+    font-weight: bold;
+}
+section.row{
+    font-size: 1.3em;
+    background-color: #7F95D1;  
+}
